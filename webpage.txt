@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="with=device-width,initial-scale=1.0">
+    <title> University Website Design </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<h><b>PUNJAB UNIVERSITY</b></H>
+<title> Sign Up Form </title>
+<div class = "sign-up-form">
+    <h1>Sign Up Now</h1>
+    <form>
+        <input type="email" class="input-box" placeholder="Your Email">
+        <input type="password" class="input-box" placeholder="Your Password">
+        <p><span><input type="checkbox"></span>I agree to the terms of services </p>
+        <button type="button" class="signup-btn">Sign up</button>
+        <hr>
+        <p class="or">OR</p>
+        <button type="button" class="signup-btn">Login With Google</button>
+    </form>
+</div>
+<body>
+<!-----header----->
+<section class = "header">
+    <nav>
+       <div class="nav-links">
+            <ul>
+                <li><a href="">HOME</a></li>
+                <li><a href="">ABOUT</a></li>
+                <li><a href="">COURSE</a></li>
+                <li><a href="">BLOG</a></li>                    <li><a href="">CONTACT</a></li>
+                </ul>
+        </div>
+    </nav>
+
+    <div class="text-box">
+        <h1> It's Best choice for Your Carrier </h1>
+        <p> One of the oldest Universities in India, the Panjab University (PU) initiated at Lahore in 1882, has a long tradition of pursuing excellence in teaching and research in science and technology, humanities, social sciences, performing arts and sports. The University supports excellence and innovation in academic programmes, promotes excellence in research, scholarship and teaching. [Panjab University]  </p>
+        <a href = "" class="hero-btn">Visit Us To know More </a>
+    </div>
+</section>
+
+<!-----course----->
+<section class="course">
+    <h1> Courses We Offer </h1>
+    <p> There are various courses :   <br>
+        Arts<br>
+        Business Management and Commerce<br>
+        Centres & Facilities<br>
+        Collaborative Research Centres<br>
+        Constituent College<br>
+        Design and Fine Arts<br>
+        Education<br>
+        Engineering and Technology<br>
+        Languages<br>
+        Law<br>
+        Medical Sciences<br>
+        Multi-Faculty Departments<br>
+        Pharmaceutical Sciences<br>
+        Regional Centre / Study Centre / Rural Centre<br>
+        Science </p>
+</section>
+
+<!-----campus----->
+<section class="campus">
+    <h1>Our Global Campus</h1
+    <p1>Panjab University is located in Sector 14 and Sector 25 of Chandigarh, spreading across an area of almost 550 acres.
+    The layout of two campuses of the University has been conceived to meet the academic, administrative, sports/recreational,residential and other requirements of a growing University.    </p1>
+</section>
+
+<!-----Facilities----->
+<section class="facility">
+    <h1>Our Facilities</h1>
+    <p1> The academic institutes on the campus and four Regional Centres are grouped under the Faculties of Arts, Science, Languages, Law, Education and Fine Arts, Business Management and Commerce, Engineering and Technology, Medical Sciences, Pharmaceutical Sciences and Dairying, Animal Husbandry and Agriculture. </p1>
+    <div class="row">
+        <div class="facility-col">
+            <h3>Library</h3>
+            <p1> The AC Joshi Library is housed in a centrally-located and fully air-conditioned 5 storey building with a seating capacity of 500 readers. It has over 7 lakh publications and a prized collection of 1490 manuscripts. It is fully computerized and provides access to more than 7500 online full text journals through UGC- INFONET. </p1>
+        </div>
+        <div class="facility-col">
+            <h3>Sports</h3>
+            <p1> The University has playgrounds for all major sports. There is an air conditioned gymnasium hall, an international level Swimming Pool, Diving Pool, 400 m grassy Athletic Track (8 lanes), two cemented Basketball courts with flood lights, four Volleyball courts, one Hockey ground, two football grounds, two Kho-Kho courts, two Kabaddi courts, three Softball grounds, two Cricket grounds, one Netball ground, one korfball ground, two synthetic lawn tennis courts, 8 grassy Lawn Tennis Courts, one Cinder Lawn Tennis Court. </p1>
+        </div>
+        <div class="facility-col">
+            <h3>Hostels</h3>
+            <p1> There are 17 hostels (8 for boys and 9 for girls) to accommodate nearly 6700 students. There also exists one Working Women hostel with a capacity to accommodate 70 residents.  </p1>
+        </div>
+        <div class="facility-col">
+            <h3>PU Radio</h3>
+            <p1>The University has its own community radio station, Radio Jyotirgamaya 91.2, which acts as a unifying agent amongst the university faculty, students and also the community. The radio programmes can be heard over a range of 10 kilometres. </p1>
+        </div>
+    </div>
+</section>
+
+<section class="Contact-us">
+    <h1>Contact Us</h1>
+    <p1> Mobile Number : 8195987607 <br> Email Id : lovepreetkaur152023@gmail.com </p1>
+</section>
+
+</body>
+</html>
